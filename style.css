@@ -1,3 +1,7 @@
-body {
-    background-color:#AE759F;
+body{
+    background: linear-gradient(to bottom left,#210B2C, #71447e);
+    background-attachment: fixed;
+}
+h2 {
+    color:#AE759F;
 }
